@@ -1,2 +1,3 @@
-export { component } from './component'
+import { component as ProgressiveImage } from './component'
 export * from './types'
+export { ProgressiveImage as default }

@@ -60,6 +60,9 @@ importers:
       vitest:
         specifier: ^0.13.1
         version: 0.13.1
+      vue3-progressive-image:
+        specifier: workspace:^
+        version: 'link:'
 
   playground:
     dependencies:
