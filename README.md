@@ -1,6 +1,14 @@
 # vue3-progressive-image
 vue3的渐进式图片加载组件
 
+# Usuage
+```ts
+import ProgressiveImage from 'vue3-progressive-image'
+import 'vue3-progressive-image/style'
+
+app.component('ProgressiveImage', ProgressiveImage)
+```
+
 
 ## License
 [MIT](./LICENSE) License © 2022 [Simon He](https://github.com/Simon-He95)
