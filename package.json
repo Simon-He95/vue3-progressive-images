@@ -1,7 +1,7 @@
 {
   "name": "vue3-progressive-image",
   "version": "0.0.2",
-  "packageManager": "pnpm@7.18.2",
+  "packageManager": "pnpm@7.33.7",
   "description": "vue3-progressive-image",
   "author": "Simon He",
   "license": "MIT",
